@@ -1,5 +1,5 @@
 require 'test/unit'
-require '../../src/Calc'
+require './src/Calc'
 
 class Add < Test::Unit::TestCase
 
